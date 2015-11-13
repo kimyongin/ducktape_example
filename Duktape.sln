@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hello", "hello\hello.vcxproj", "{711C7324-745F-42C0-95EA-A3F8C58B70D7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "duktape", "duktape\duktape.vcxproj", "{54D1F281-11F2-4580-B4D1-F4FA6059B7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{711C7324-745F-42C0-95EA-A3F8C58B70D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{711C7324-745F-42C0-95EA-A3F8C58B70D7}.Debug|Win32.Build.0 = Debug|Win32
+		{711C7324-745F-42C0-95EA-A3F8C58B70D7}.Release|Win32.ActiveCfg = Release|Win32
+		{711C7324-745F-42C0-95EA-A3F8C58B70D7}.Release|Win32.Build.0 = Release|Win32
+		{54D1F281-11F2-4580-B4D1-F4FA6059B7BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{54D1F281-11F2-4580-B4D1-F4FA6059B7BA}.Debug|Win32.Build.0 = Debug|Win32
+		{54D1F281-11F2-4580-B4D1-F4FA6059B7BA}.Release|Win32.ActiveCfg = Release|Win32
+		{54D1F281-11F2-4580-B4D1-F4FA6059B7BA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

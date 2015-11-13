@@ -1,0 +1,1 @@
+exports.hello = function() { print("Hello from fileA!"); };
